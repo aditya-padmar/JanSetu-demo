@@ -1,0 +1,6 @@
+{
+  "name": "Jan Setu",
+  "description": "A responsive digital civic gateway demo that helps residents find local public services, report community issues, and follow the progress of requests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
